@@ -32,7 +32,7 @@ csv_excel_converter/
 
 2. Run the script:
    ```bash
-   python script.py
+   python CSV_Excel_Read_&_Write.py
    ```
 
 3. Check the output in `data_output.xlsx`.
