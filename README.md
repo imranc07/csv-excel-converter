@@ -18,10 +18,10 @@ Create a Python script that can read data from a CSV file and write it to an Exc
 ## 📂 File Structure
 ```
 csv_excel_converter/
-│── data.csv              # Input CSV file
-│── data_output.xlsx      # Output Excel file (auto-generated)
-│── script.py             # Python script
-│── README.md             # Documentation
+│── data.csv                   # Input CSV file
+│── data_output.xlsx           # Output Excel file (auto-generated)
+│── CSV_Excel_Read_&_Write.py  # Python script
+│── README.md                  # Documentation
 ```
 
 ## ▶️ How to Run
